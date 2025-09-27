@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Groep-4",
+    "description": "Beste voor leerlingen van 7 tot 8 jaar"
+  },
+  {
+    "name": "Groep-5",
+    "description": "Beste voor leerlingen van 8 tot 9 jaar"
+  },
+  {
+    "name": "Groep-6",
+    "description": "Beste voor leerlingen van 9 tot 10 jaar"
+  },
+  {
+    "name": "Groep-7",
+    "description": "Beste voor leerlingen van 10 tot 11 jaar"
+  },
+  {
+    "name": "Groep-8",
+    "description": "Beste voor leerlingen van 11 tot 12 jaar"
+  }
+]

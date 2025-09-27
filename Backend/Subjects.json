@@ -1,0 +1,133 @@
+
+[
+  { 
+    "name": "Rekenen", 
+    "group": "Groep-4", 
+    "description": "Kinderen leren optellen en aftrekken tot 100 en maken kennis met tafels." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-4", 
+    "description": "Leerlingen oefenen met zinnen maken, lezen en schrijven van korte teksten." 
+  },
+  { 
+    "name": "Begrijpend Lezen", 
+    "group": "Groep-4", 
+    "description": "Kinderen leren teksten begrijpen en vragen beantwoorden over wat ze lezen." 
+  },
+  { 
+    "name": "spelling", 
+    "group": "Groep-4", 
+    "description": "Leerlingen oefenen met juiste spelling van veelgebruikte woorden." 
+  },
+  { 
+    "name": "Woordenschat", 
+    "group": "Groep-4", 
+    "description": "Kinderen breiden hun vocabulary uit met alledaagse en schoolse woorden." 
+  },
+
+  { 
+    "name": "Rekenen", 
+    "group": "Groep-5", 
+    "description": "Leerlingen oefenen met grotere getallen, tafels en eenvoudige vermenigvuldigen en delen." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-5", 
+    "description": "Kinderen leren langere zinnen schrijven en letten op grammatica en leestekens." 
+  },
+  { 
+    "name": "Begrijpend Lezen", 
+    "group": "Groep-5", 
+    "description": "Leerlingen lezen langere teksten en leren de hoofdgedachte en details herkennen." 
+  },
+  { 
+    "name": "spelling", 
+    "group": "Groep-5", 
+    "description": "Oefenen met moeilijkere woorden en regels voor open en gesloten lettergrepen." 
+  },
+  { 
+    "name": "Woordenschat", 
+    "group": "Groep-5", 
+    "description": "Kinderen leren nieuwe woorden uit verhalen en dagelijkse situaties." 
+  },
+
+  { 
+    "name": "Rekenen", 
+    "group": "Groep-6", 
+    "description": "Leerlingen werken met breuken, kommagetallen en beginnen met eenvoudige procenten." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-6", 
+    "description": "Kinderen leren verschillende soorten teksten schrijven, zoals verhalen en brieven." 
+  },
+  { 
+    "name": "Begrijpend Lezen", 
+    "group": "Groep-6", 
+    "description": "Leerlingen oefenen met langere teksten en leren verbanden en conclusies te trekken." 
+  },
+  { 
+    "name": "spelling", 
+    "group": "Groep-6", 
+    "description": "Kinderen oefenen met werkwoordspelling en meer complexe spellingregels." 
+  },
+  { 
+    "name": "Woordenschat", 
+    "group": "Groep-6", 
+    "description": "Leerlingen leren vaklanguage en woorden uit verschillende onderwerpen." 
+  },
+
+  { 
+    "name": "Rekenen", 
+    "group": "Groep-7", 
+    "description": "Leerlingen leren Rekenen met procenten, breuken en verhoudingen, en werken met grotere sommen." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-7", 
+    "description": "Kinderen oefenen met samengestelde zinnen en leren betere teksten schrijven." 
+  },
+  { 
+    "name": "Begrijpend Lezen", 
+    "group": "Groep-7", 
+    "description": "Leerlingen analyseren informatieve teksten en leren meningen onderbouwen." 
+  },
+  { 
+    "name": "spelling", 
+    "group": "Groep-7", 
+    "description": "Oefenen met ingewikkelde werkwoorden en uitzonderingen op spellingregels." 
+  },
+  { 
+    "name": "Woordenschat", 
+    "group": "Groep-7", 
+    "description": "Kinderen leren abstracte en schoolse woorden gebruiken in context." 
+  },
+
+  { 
+    "name": "Rekenen", 
+    "group": "Groep-8", 
+    "description": "Leerlingen bereiden zich voor op de middelbare school met breuken, procenten, verhoudingen en meten." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-8", 
+    "description": "Kinderen leren goed gestructureerde teksten schrijven en hun languagegebruik verbeteren." 
+  },
+  { 
+    "name": "Begrijpend Lezen", 
+    "group": "Groep-8", 
+    "description": "Leerlingen leren kritisch lezen en informatie vergelijken uit verschillende teksten." 
+  },
+  { 
+    "name": "Taal", 
+    "group": "Groep-8", 
+    "description": "Oefenen met alle werkwoordsvormen en complexe woorden om klaar te zijn voor de middelbare school." 
+  },
+  { 
+    "name": "Woordenschat", 
+    "group": "Groep-8", 
+    "description": "Kinderen leren brede vocabulary gebruiken voor schoolvakken en dagelijks leven." 
+  }
+]
+
