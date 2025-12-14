@@ -1,0 +1,710 @@
+[
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 15",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 15",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 18",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 18",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 7",
+        "subcategory": "les 15",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 7",
+        "subcategory": "les 15",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 7",
+        "subcategory": "les 18",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 7",
+        "subcategory": "les 18",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 8",
+        "subcategory": "les 15",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 8",
+        "subcategory": "les 15",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 8",
+        "subcategory": "les 18",
+        "level": "easy",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type100",
+        "group": "groep 8",
+        "subject": "Rekenen",
+        "category": "blok 8",
+        "subcategory": "les 18",
+        "level": "advance",
+        "metadata": {
+            "question": "What is the content? How many flower boxes fit in the large container?",
+            "data": [
+                {
+                    "id": "flowerbox",
+                    "img": "/images/arrtype99harvestthings.png",
+                    "label": "Flower Box",
+                    "inputs": [
+                        {
+                            "id": "fb1",
+                            "text": "The content of the flower box is",
+                            "unit": "dm2",
+                            "answer": "360"
+                        },
+                        {
+                            "id": "fb2",
+                            "text": "That",
+                            "unit": "litres",
+                            "answer": "360"
+                        }
+                    ]
+                },
+                {
+                    "id": "container",
+                    "img": "/images/arrtype99container.png",
+                    "label": "Container",
+                    "inputs": [
+                        {
+                            "id": "c1",
+                            "text": "The content of the container is",
+                            "unit": "m2",
+                            "answer": "5.4"
+                        },
+                        {
+                            "id": "c2",
+                            "text": "That is",
+                            "unit": "litres",
+                            "answer": "5400"
+                        },
+                        {
+                            "id": "c3",
+                            "text": "The flower box fits",
+                            "unit": "times in the container",
+                            "answer": "15"
+                        }
+                    ]
+                }
+            ],
+            "hint": "Calculate the volume of each object. Convert to litres (1 dm³ = 1 litre). Then divide container volume by flower box volume."
+        }
+    }
+]

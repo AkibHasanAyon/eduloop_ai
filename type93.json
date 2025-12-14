@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "type": "type93",
+        "group": "groep 6",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 19",
+        "level": "easy",
+        "metadata": {
+            "question": "Welk doosje hoort bij de uitslag?",
+            "data": [
+                {
+                    "id": "i1",
+                    "shape": "/images/arrtype93shape1.png",
+                    "net": "/images/arrtype93shape4.png",
+                    "correctShape": 1
+                },
+                {
+                    "id": "i2",
+                    "shape": "/images/arrtype93shape2.png",
+                    "net": "/images/arrtype93shape5.png",
+                    "correctShape": 0
+                },
+                {
+                    "id": "i3",
+                    "shape": "/images/arrtype93shape3.png",
+                    "net": "/images/arrtype93shape6.png",
+                    "correctShape": 2
+                }
+            ],
+            "hint": "Match de vakjes."
+        }
+    },
+    {
+        "id": 1,
+        "type": "type93",
+        "group": "groep 6",
+        "subject": "Rekenen",
+        "category": "blok 1",
+        "subcategory": "les 19",
+        "level": "advance",
+        "metadata": {
+            "question": "Welk doosje hoort bij de uitslag?",
+            "data": [
+                {
+                    "id": "i1",
+                    "shape": "/images/arrtype93shape1.png",
+                    "net": "/images/arrtype93shape4.png",
+                    "correctShape": 1
+                },
+                {
+                    "id": "i2",
+                    "shape": "/images/arrtype93shape2.png",
+                    "net": "/images/arrtype93shape5.png",
+                    "correctShape": 0
+                },
+                {
+                    "id": "i3",
+                    "shape": "/images/arrtype93shape3.png",
+                    "net": "/images/arrtype93shape6.png",
+                    "correctShape": 2
+                }
+            ],
+            "hint": "Match de vakjes."
+        }
+    }
+]
